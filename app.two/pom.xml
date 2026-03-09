@@ -10,8 +10,8 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>app-one</artifactId>
-    <name>App One</name>
+    <artifactId>two</artifactId>
+    <name>App Two</name>
 
     <dependencies>
         <dependency>
